@@ -11,7 +11,7 @@ const SETTINGS: ScrollSettings = {
   amount: 15,
   tolerance: 5,
   minIndex: 1,
-  maxIndex: 120,
+  maxIndex: 250000,
   startIndex: 1,
 };
 
